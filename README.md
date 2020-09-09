@@ -1,5 +1,2 @@
 # Boat-Racing-Game
-Text Mesh Pro is not mine, I merely used for visual effect.
-
-Text Size Script Should be done on start not update
-Cant stop coroutines in enemySpawner
+https://www.youtube.com/watch?v=e-Jk77tPBFg&t=1s&ab_channel=RyanWestwood
